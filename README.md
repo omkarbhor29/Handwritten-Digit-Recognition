@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition
+# Handwritten-Digit-Recognition Using Python Scikit-Learn
